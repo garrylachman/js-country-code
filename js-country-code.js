@@ -275,11 +275,10 @@ based on https://github.com/hannesgassert/countrynames
 
 			for (ii=0; ii < countryParts.length; ii++) {
 				name += countryParts[ii];
-	            this.fromCode[code.toUpperCase()] = name;
-	            this.fromName[name.toUpperCase()] = code;
-	            name += ', ';
-        	}
-
+				this.fromCode[code.toUpperCase()] = name;
+				this.fromName[name.toUpperCase()] = code;
+				name += ', ';
+			}
 		}
 	}
 
