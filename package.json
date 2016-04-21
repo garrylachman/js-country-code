@@ -1,0 +1,31 @@
+{
+  "name": "js-country-code",
+  "version": "1.0.0",
+  "description": "map from country codes to country names and vice versa",
+  "main": "js-country-code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrylachman/js-country-code.git"
+  },
+  "keywords": [
+    "country",
+    "country",
+    "code",
+    "iso",
+    "code"
+  ],
+  "author": "Garry Lachman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/garrylachman/js-country-code/issues"
+  },
+  "homepage": "https://github.com/garrylachman/js-country-code#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
