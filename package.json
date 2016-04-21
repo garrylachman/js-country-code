@@ -1,6 +1,6 @@
 {
   "name": "js-country-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "map from country codes to country names and vice versa",
   "main": "js-country-code.js",
   "scripts": {
